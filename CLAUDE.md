@@ -31,6 +31,7 @@ Good names:
 * Strive for self-explanatory code over comments.
 * Write comments only when they provide information that is not evident from the code itself.
 * Focus on the why (intent, rationale, assumptions, constraints, or trade-offs), not the what.
+* In tests, comments may describe the scenario, but should not restate the code.
 
 ### 4. CHANGES
 
